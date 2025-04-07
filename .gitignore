@@ -1,0 +1,3 @@
+img/*.jpg
+.env
+/node_moudules
